@@ -1,6 +1,6 @@
 {
   "name": "ui5-semver",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Semantic versioning for UI5",
   "main": "./lib/index.js",
   "bin": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lboehm/semver-manifest.git"
+    "url": "git+https://github.com/lboehm/ui5-semver.git"
   },
   "files": [
     "lib",
@@ -36,9 +36,9 @@
   "author": "Lukas Böhm",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lboehm/semver-manifest/issues"
+    "url": "https://github.com/lboehm/ui5-semver/issues"
   },
-  "homepage": "https://github.com/lboehm/semver-manifest#readme",
+  "homepage": "https://github.com/lboehm/ui5-semver#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "yargs": "^15.3.1"
